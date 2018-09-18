@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NetworkSelection</string>
+    <string name="title_activity_network_selection">NetworkSelection</string>
+    <string name="prompt_operatorid">PLMNID (operator)</string>
+    <string name="action_set_manual">Set Manual</string>
+    <string name="action_set_automatic">Unset and return to Automatic</string>
+</resources>

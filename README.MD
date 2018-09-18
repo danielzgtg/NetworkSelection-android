@@ -3,12 +3,11 @@ Network Selection Alternative for AOSP
 An app to manually select Android network when the system Settings app doesn't work.
 
 ## Features
-Set manual cell provider to any string.
-Set cell provider back to automatic.
+- Set manual cell provider to any string.
+- Set cell provider back to automatic.
 
 ## Why?
-Phone Services crashes on some ROMs when using the Settings app to do this.
-A separate app was a fast way to work around this while the ROMs are being fixed.
+Phone Services crashes on some ROMs when using the Settings app to do this. Making a separate app was a fast way to work around this while the ROMs are being fixed.
 
 ## Requirements
 - Android Studio
